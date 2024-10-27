@@ -1,6 +1,9 @@
 # Captcha**
 #Tanmay Samdani 
-#Yusheng Deng**
+#Yusheng Deng
+
+
+
 To download dataset from server --> python file_download.py
 
 
